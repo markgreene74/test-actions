@@ -1,6 +1,6 @@
-'''
+"""
 this is the docstring
-'''
+"""
 
 import sys
 
